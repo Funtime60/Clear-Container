@@ -1,2 +1,2 @@
-# Factorio-Mod-Template
-A template repository of a factorio mod repository. It should be as simple as duplicating the repo and setting your API key in the GH secrets tab. Then make a release and it's done. This is all untested though so...
+# Clear-Container
+A simple mod that adds a tool to select and clear containers by marking their contents for removal. Can also do the opposite and other useful releated tasks. 2 Days of working on it so far.
